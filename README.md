@@ -3,7 +3,7 @@
 **Song, H., Park, B.-Y., Park, H., Shim, W.M. (2020) Cognitive and neural state dynamics of narrative comprehension**
 
 Data repository for two behavioral experiments and movie annotation (saved in .mat files).<br>
-Raw FMRI data lies in openneuro.org/XX.
+Raw FMRI data lies in https://zenodo.org/records/5108941.
 
 **1. "ahaoops": Behavioral experiment 1: Reports on the subjective moments of comprehension**
   - time of button press: 0-600s
